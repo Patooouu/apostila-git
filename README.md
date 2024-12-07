@@ -1,9 +1,4 @@
-<h1 align="center"> Apostila Versionamento de Código, Git e GitHub </h1>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+<h1 align="center"> Apostila Versionamento de Código (Git e GitHub) </h1>
 
 <br>
 
