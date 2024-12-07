@@ -12,4 +12,4 @@ A presente apostila conta com conteúdos sobre:
 
 ## 💻 Projeto
 
-O presente projeto possui conceitos, dicas e aplicações de Git e GitHub, apresentados pelo professor Alexsander Donay durante o curso extra de Versionamento de Código da FSG - Faculdade da Serra Gaúcha 
+O presente projeto possui conceitos, dicas e aplicações de Git e GitHub, apresentados pelo professor Alexsander Donay durante o curso extra de Versionamento de Código da FSG - Faculdade da Serra Gaúcha.
